@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MortenBloch
+- 👋 Hi, I’m @MortenBlochMuller
 - 👀 I’m interested in learning to automate processes and taksk
 - 🌱 I’m currently learning Python
 - 📫 How to reach me https://www.linkedin.com/in/morten-bloch-müller/
